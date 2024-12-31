@@ -1,0 +1,144 @@
+h1{
+    font-size:35px;
+    font-family:sans-serif;
+    font-style:italic;
+    color:rgb(20, 20, 20);
+    font-weight: bold;
+    margin-left:90px;
+    padding-top:0.5em;
+ }
+nav li {
+display:inline-block;
+margin-right:70;
+padding-inline:35px ;
+}
+nav{
+  width:1340px;
+  height:80px;
+  background-color: #76778a;
+  margin-top:-27px;
+}
+
+
+nav ul{
+float:right;
+padding:2px;
+padding-inline:60px;
+margin-bottom:120px;
+margin-top:-60px;
+}
+ 
+nav  li a{
+color:rgb(22, 22, 22);
+text-decoration: none;
+font-size:25px;
+border:0 solid rgb(243, 243, 243) ;
+font-style:italic;
+padding-inline:2px;
+padding-right:20px;
+letter-spacing:0.5px;
+font-weight:500;
+
+
+}
+
+
+
+ul li a:hover{
+color: rgb(255, 255, 255);
+
+}
+img{
+margin-left:800px;
+margin-top:-270px;
+border-radius:300px; 
+border-right:10px solid #76778a;
+border-left:10px solid #76778a;
+border-bottom:10px solid  #76778a;
+border-top:10px solid #76778a;
+
+
+}
+.main{
+  background-color: #76778a;
+  height: 90vh;
+  width: 1340px;
+}
+.container{
+    width:1100px;
+    height:440px;
+    background-color: #c2c2c2;
+    margin-left:-25px;
+    position: absolute;
+  
+}
+.content{
+    width:400px;
+    height:220px;
+    background-color:transparent;
+    position: relative;
+    margin-top:90px;
+    margin-left:60px;
+  }
+  h2{
+    font-size:30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #2e1441;
+  }
+  .para{
+    font-size:25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:black;
+    margin-top:-20px;
+  }
+  .btn{
+    width:110px;
+    height:40px;
+    background-color:#2e1441;
+    border: none;
+    font-size:18px;
+    color: white;
+    margin-top:-80px;
+    margin-left:55px;
+    border-radius:6px;
+  }
+  .btn:hover{
+    background-color: black;
+    cursor: pointer;
+  }
+  
+ .information{
+  width:1340px;
+  height:400px;
+  background-color:white;
+  margin-top:-22px;
+}
+.info{
+  font-size:30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #2e1441;
+  padding:1em 0 0 1em;
+}
+.information p {
+  font-size:20px;
+  font-family:sans-serif;
+  text-align:justify;
+
+}
+.paragraph{
+  width:50vh;
+  margin-left:2em;
+  margin-top:-1em;
+}
+.personal{
+  width:65vh;
+  height:35vh;
+  background-color:#c2c2c2;
+  margin-left:25em;
+  margin-top:-16em;
+}
+span{
+  font-size:25px;
+  font-family:sans-serif;
+  font-weight:400;
+}
